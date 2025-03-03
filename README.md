@@ -46,9 +46,9 @@ This will compile all the necessary files and create an executable named watchdo
 To run the program that prints output every few seconds, and tests how the watchdog service reacts to a process failure:
 
 
-	```bash
-   ./watchdog
-	```
+```bash
+./watchdog
+```
 	
 ### 3. **Integrating with Your Code**:
 To integrate the watchdog functionality into your own code:
